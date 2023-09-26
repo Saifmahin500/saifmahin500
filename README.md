@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 <h1 align="center">Hi 👋, I'm Saif Mahin</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/man-with-beard-is-working-laptop_922925-31.jpg">
