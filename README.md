@@ -9,9 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Current Overview:</h3>
-- 🔭 I’m currently working on **Web Developmenet**
+- 🔭 I’m currently working on Mern Stack Development 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React.js**
+- 👀 I'm Looking for help Web development
+- 🧾Ask me about JavaScript & React.js
+
 
 - 📫 How to reach me **Saifmahin500@gmail.com**
 
